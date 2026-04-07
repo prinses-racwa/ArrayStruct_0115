@@ -13,11 +13,11 @@ int main()
     //deklarasi obyek dari struct orang
     orang mhs;
     //isi objek
-    cout << "nama mahasiswa: ";
+    cout << "isikan data nama : ";
     cin >> mhs.nama;
-     cout << "alamat asal: ";
+     cout << "isikan data alamat : ";
     cin >> mhs.alamat;
-     cout << "umur: ";
+     cout << "isikan data umur : ";
     cin >> mhs.umur;
     cout << endl;
     //menampilkan isi obyek
