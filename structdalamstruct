@@ -1,12 +1,23 @@
 #include <iostream> 
 using namespace std;
 
-struct detailalamat{
+struct detailalamat
+{
     string desa;
     string kota;
+
 };
-struct orang{
+
+struct orang
+{
     string nama;
     detailalamat alamat;
     int umur;
+
 };
+
+int main ()
+{
+    //Deklarasi variabel struct
+    
+}
