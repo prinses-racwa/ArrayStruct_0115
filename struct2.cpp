@@ -32,7 +32,7 @@ int main()
     cout << endl;
 
     cout << "Data Tampil" << endl;
-     cout << "nama : " << mhs.nama<<endl;
+    cout << "nama : " << mhs.nama<<endl;
     cout << "desa : " << mhs.alamat.desa<<endl;
     cout << "kota : " << mhs.alamat.kota<<endl;
     cout << "umur : " << mhs.umur<<endl;
